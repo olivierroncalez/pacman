@@ -36,7 +36,7 @@ import numpy as np
 
 # QLearnAgent
 #
-class QLearnAgent(Agent):
+class ApproxAgent(Agent):
 
 ######################################################################################
 ################                    Initialization                   ################
