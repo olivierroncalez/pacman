@@ -42,3 +42,5 @@ for function approximation agent.
 Both agents should obtain 100% success rate on the small grid. There are far too many possible state-action pairs to run QLearner on the medium or large grid, and function approximation has not yet been optimized for the large grid. Continued work will occur for the function approximation agent in order to optimize it in the future. Subscribe to updates to see any new developments. 
 
 Note that the QLearner is trained on 2000 runs (although convergence generally occurs after 200-300 runs). Function approximation agent is trained on 100 runs. The terminal printouts for the QLearner agent are the state-action reward pairs, while for the function approximation agent they reflect the weights assigned to the linear function. 
+
+A report was made detailing the process of the QLearner agent. Please reference for more information.
